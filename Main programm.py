@@ -1,4 +1,4 @@
-import cv2 
+
 import numpy as np
 y1 = 750
 y2 = 1000
